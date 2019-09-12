@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am amjad4mr on github.
+  * I am amjad4mr (https://keybase.io/amjad4mr) on keybase.
+  * I have a public key ASDLhTisyGh3jFOpL0M3o5M0Q1IVTfXg2VV1Gdfhuufhhgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cb8538acc868778c53a92f4337a393344352154df5e0d9557519d7e1bae7e1860a",
+      "host": "keybase.io",
+      "kid": "0120cb8538acc868778c53a92f4337a393344352154df5e0d9557519d7e1bae7e1860a",
+      "uid": "aa08c53f149d573159db852e96e8b719",
+      "username": "amjad4mr"
+    },
+    "merkle_root": {
+      "ctime": 1568273560,
+      "hash": "81d308ddcc98fd033c0b6ecb932493df7bfba79ec1d14575c62cbb0652f5e2ac624b21a645ae66d68f73ca415fc83f6f0c21057299712156cc1131a770ef14db",
+      "hash_meta": "65e431c80143a5d7a36f93cd13cd7d0cd97d3d843375c5615ed1217ec5f1d961",
+      "seqno": 6917017
+    },
+    "service": {
+      "entropy": "Bm05j5tWoVgNX/oBPgduf2mN",
+      "name": "github",
+      "username": "amjad4mr"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568273571,
+  "expire_in": 504576000,
+  "prev": "21f84e641e45f5ea9854a57f884b3b27c98149527e73783abc6b7a748c30f704",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASDLhTisyGh3jFOpL0M3o5M0Q1IVTfXg2VV1Gdfhuufhhgo](https://keybase.io/amjad4mr), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgy4U4rMhod4xTqS9DN6OTNENSFU314NlVdRnX4brn4YYKp3BheWxvYWTESpcCBMQgIfhOZB5F9eqYVKV/iEs7J8mBSVJ+c3g6vGt6dIww9wTEIAwRDmZF8z6cjzOUd247W8zCsPLe6HSw7A/Mw+mXGIGhAgHCo3NpZ8RA8jr7GIKllvvIQffAYP6QzwrFaeokXBH5Peesyz4VAJ+7mTxQXUU9fPQOEUFTS3WhHF9f3BilYXHpUE9TyHPTCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJj16KUxvc6pwa5O6OAL6qZoRRKdFCJIgVI96JGkfN4yo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/amjad4mr
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id amjad4mr
+```
